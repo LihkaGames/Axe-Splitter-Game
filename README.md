@@ -57,7 +57,7 @@
 | 🏆 **1,000 Levels** | **Handcrafted campaign journey with scaling difficulty and 3-star ranking** |
 | ❄️ **Elemental Axes** | Unlock Ice, Thunder, and Shadow axes with unique powers |
 | 🛡️ **Shadow Pass** | Ability to phase through danger zones once per level |
-| 🕹️ **Pro Controls** | Refined joystick movement for ultimate precision |
+| 🎯 **Precision Physics** | Accurate trajectory-based mechanics for satisfying gameplay |
 | ⏳ **4 Game Modes** | Classic, Time, Zen, and Endless modes |
 | 🔥 **7-Day Streak** | Daily coin multipliers to boost your wallet |
 | 🚫 **No Friction** | No registration, no login—just install and play |
