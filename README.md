@@ -24,9 +24,9 @@
 
 <a href="https://github.com/LihkaGames/Axe-Splitter-Game/releases/download/v1.0.0/Axe.Splitter.apk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%AA%93+INSTANT+PLAY+%E2%80%A2+NO+SIGNUP+%F0%9F%AA%93;%E2%9A%A1+AXE+SPLITTER+v1.0.0+%E2%9A%A1">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%AA%93+INSTANT+PLAY+%E2%80%A2+NO+SIGNUP+%F0%9F%AA%93;%E2%9A%A1+AXE+SPLITTER+v1.0.0+%E2%9A%A1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%AA%93+INSTANT+PLAY+%E2%80%A2+NO+SIGNUP+%F0%9F%AA%93;%E2%9A%A1+AXE+SPLITTER+v1.0.0+%E2%9A%A1" alt="Download Animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%AA%93+1%2C000+LEVELS+AVAILABLE+%F0%9F%AA%93;%E2%9A%A1+AXE+SPLITTER+v1.0.0+%E2%9A%A1">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%AA%93+1%2C000+LEVELS+AVAILABLE+%F0%9F%AA%93;%E2%9A%A1+AXE+SPLITTER+v1.0.0+%E2%9A%A1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AC%87+CLICK+HERE+TO+DOWNLOAD+APK+%E2%AC%87;%F0%9F%AA%93+1%2C000+LEVELS+AVAILABLE+%F0%9F%AA%93;%E2%9A%A1+AXE+SPLITTER+v1.0.0+%E2%9A%A1" alt="Download Animation" />
   </picture>
 </a>
 
@@ -44,7 +44,7 @@
 
 ## 🎮 About
 
-**Axe Splitter** is a high-performance 2D arcade game where precision meets power. Navigate physics-based trajectories to split logs, avoid dangerous obstacles, and master the art of the blade. Built for speed and immediate fun with our "Direct Play" philosophy.
+**Axe Splitter** is a high-performance 2D arcade game where precision meets power. Navigate physics-based trajectories to split logs, avoid dangerous obstacles, and master the art of the blade. With a massive **1,000-level campaign**, the challenge never stops. Built for speed and immediate fun with our "Direct Play" philosophy.
 
 🚀 **Split. Conquer. Dominate.**
 
@@ -54,9 +54,9 @@
 
 | Feature | Description |
 |---------|-------------|
+| 🏆 **1,000 Levels** | **Handcrafted campaign journey with scaling difficulty and 3-star ranking** |
 | ❄️ **Elemental Axes** | Unlock Ice, Thunder, and Shadow axes with unique powers |
 | 🛡️ **Shadow Pass** | Ability to phase through danger zones once per level |
-| 🔄 **200 Levels** | Handcrafted campaign mode with 3-star ranking |
 | 🕹️ **Pro Controls** | Refined joystick movement for ultimate precision |
 | ⏳ **4 Game Modes** | Classic, Time, Zen, and Endless modes |
 | 🔥 **7-Day Streak** | Daily coin multipliers to boost your wallet |
